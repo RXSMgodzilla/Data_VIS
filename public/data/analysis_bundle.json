@@ -1,0 +1,4343 @@
+{
+  "meta": {
+    "sourceFile": "MC1_release\\MC1_graph.json",
+    "nodeCount": 17412,
+    "edgeCount": 37857,
+    "generatedFor": "VAST Challenge 2025 MC1 interactive dashboard"
+  },
+  "tasks": {
+    "sailor": {
+      "artistId": "17255",
+      "artistName": "Sailor Shift",
+      "breakoutYear": 2030,
+      "yearRange": [
+        2028,
+        2040
+      ],
+      "graph": {
+        "nodes": [
+          {
+            "id": "17410",
+            "label": "Seashell Serenade",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2030,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "8207",
+            "label": "Echoes of Forgotten Light",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Alternative Rock",
+            "year": 2004,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "8208",
+            "label": "Igor Dyś",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "76",
+            "label": "Ming Ren",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "14933",
+            "label": "The Crown We Wear",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Indie Rock",
+            "year": 2022,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "14934",
+            "label": "Miss Jennifer Williams",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "14935",
+            "label": "William Robinson",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "14936",
+            "label": "Judy Yang",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "14937",
+            "label": "Joanna Avery",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "14938",
+            "label": "Molly Gonzalez",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "5213",
+            "label": "Samantha Bullock",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "9848",
+            "label": "Partisan's Lament",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Indie Pop",
+            "year": 2030,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17022",
+            "label": "Cassette Future",
+            "nodeType": "MusicalGroup",
+            "tier": "influenced",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17032",
+            "label": "Silver Veil",
+            "nodeType": "MusicalGroup",
+            "tier": "influenced",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "2705",
+            "label": "Jeremiah Love",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "2706",
+            "label": "Zachary Francis",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "2707",
+            "label": "Robert Woods",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "10903",
+            "label": "Parallel Memories",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Dream Pop",
+            "year": 2028,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "10905",
+            "label": "Tao Wen",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "10906",
+            "label": "Guiying Ren",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "10907",
+            "label": "Lei Shi",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "10908",
+            "label": "Wei Liang",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "16031",
+            "label": "Simone Säuberlich",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17063",
+            "label": "The Phantom Operators",
+            "nodeType": "MusicalGroup",
+            "tier": "influenced",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3760",
+            "label": "Min Long",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3761",
+            "label": "Gang Shao",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "8880",
+            "label": "Tao Gao",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3763",
+            "label": "Qiang Yuan",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "13014",
+            "label": "Exoskeleton Dissolve",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Indie Rock",
+            "year": 2020,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "13015",
+            "label": "David Reese",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "13016",
+            "label": "Ryan Dunlap",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "13017",
+            "label": "Elmo Calbo",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "13018",
+            "label": "Amico Luciani",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17110",
+            "label": "The Hollow Monarchs",
+            "nodeType": "MusicalGroup",
+            "tier": "influenced",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17126",
+            "label": "Seraphina Vale",
+            "nodeType": "Person",
+            "tier": "influenced",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "1276",
+            "label": "Yong Dong",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17155",
+            "label": "Jaye Finch",
+            "nodeType": "Person",
+            "tier": "influenced",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "1294",
+            "label": "Urszula Stochmal",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "13589",
+            "label": "Silent Steps in the Forest's Embrace",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Avant-Garde Folk",
+            "year": 2023,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "10016",
+            "label": "Dreamscape of Judgment",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Symphonic Metal",
+            "year": 2023,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "10018",
+            "label": "Trevor Bass",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "10019",
+            "label": "Xiuying Du",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "10020",
+            "label": "Xia Yuan",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17189",
+            "label": "Ewan MacCrae",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17190",
+            "label": "Astrid Nørgaard",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17191",
+            "label": "Freya Lindholm",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17192",
+            "label": "The Fiddle & The Fjord",
+            "nodeType": "MusicalGroup",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3881",
+            "label": "Susurros de Pasión",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Synthwave",
+            "year": 2004,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "3882",
+            "label": "Juan Zhou",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3883",
+            "label": "Yang Zhao",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "10534",
+            "label": "Twelve Bells of Augsburg",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Psychedelic Rock",
+            "year": 2026,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "10021",
+            "label": "Sandra Burke",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "10022",
+            "label": "Yan Li",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17205",
+            "label": "Liam O'Sullivan",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17206",
+            "label": "Fiona Mercer",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "14658",
+            "label": "Addicted to Your Heartache",
+            "nodeType": "Album",
+            "tier": "collaborator",
+            "genre": "Southern Gothic Rock",
+            "year": 2004,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17226",
+            "label": "Kai Reynolds",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "12686",
+            "label": "James Medina",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "12687",
+            "label": "Matthew Best",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17255",
+            "label": "Sailor Shift",
+            "nodeType": "Person",
+            "tier": "core",
+            "genre": null,
+            "year": null,
+            "size": 26,
+            "notable": false
+          },
+          {
+            "id": "17260",
+            "label": "Ivy Echos",
+            "nodeType": "MusicalGroup",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "876",
+            "label": "Bold Without Apology",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Indie Rock",
+            "year": 2010,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "878",
+            "label": "Jing Kang",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "15224",
+            "label": "Juan Shi",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17272",
+            "label": "Tidal Pop Waves",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2028,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17273",
+            "label": "Salty Dreams",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2030,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17274",
+            "label": "The Current & The Chord",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2032,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17275",
+            "label": "Coral Beats",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2034,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17276",
+            "label": "Tides & Ballads",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2036,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17277",
+            "label": "Oceanbound",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2038,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17278",
+            "label": "Echoes of the Deep",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2040,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17280",
+            "label": "Electric Eel Love",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2028,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17281",
+            "label": "Sun-Drenched Daydream",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2028,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17282",
+            "label": "Chord of the Deep",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2028,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17283",
+            "label": "Heart of the Habitat",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2030,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17284",
+            "label": "Reef Rhythm",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2030,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17285",
+            "label": "Driftwood Lullaby",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2030,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17286",
+            "label": "Saltwater Hymn",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2032,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17287",
+            "label": "Moon Over the Tide",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2034,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17288",
+            "label": "Into the Current",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2034,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17289",
+            "label": "Barnacle Heart",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2034,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17290",
+            "label": "Fog & Fiddle",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2036,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17291",
+            "label": "The Fisherman's Prayer",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2036,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17292",
+            "label": "Stormsong",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2038,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17293",
+            "label": "Salt in My Veins",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2040,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17294",
+            "label": "The Last Mariner",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2040,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "12685",
+            "label": "Coastal Whispers of Biscay",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Alternative Rock",
+            "year": 2031,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17296",
+            "label": "Coralia Bellweather",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "12688",
+            "label": "Linda Burns",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3986",
+            "label": "Altitude of Mistakes",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Americana",
+            "year": 2015,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "17299",
+            "label": "The Saltwater Weavers",
+            "nodeType": "MusicalGroup",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3987",
+            "label": "Xiulan Fang",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3988",
+            "label": "Qiang Liu",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3989",
+            "label": "Jun Qiao",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "3990",
+            "label": "Ming Huang",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17279",
+            "label": "High Tide Heartbeat",
+            "nodeType": "Song",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2028,
+            "size": 10,
+            "notable": false
+          },
+          {
+            "id": "17309",
+            "label": "Levi Holloway",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17310",
+            "label": "Marin Thorne",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17311",
+            "label": "Jonah Calloway",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "934",
+            "label": "Jun Zhou",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17327",
+            "label": "Drowned Harbor",
+            "nodeType": "MusicalGroup",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "16823",
+            "label": "Ursus",
+            "nodeType": "MusicalGroup",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "16312",
+            "label": "Harvest Dance at Ler Valley",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Psychedelic Rock",
+            "year": 2010,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "6592",
+            "label": "When the Bar Lights Go Up",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Emo/Pop Punk",
+            "year": 2000,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "6593",
+            "label": "Lori Massey",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17349",
+            "label": "Bea Azure",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17350",
+            "label": "Tidesworn Ballads",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2031,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "455",
+            "label": "Yang Peng",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "5574",
+            "label": "Our Inevitable Path",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Indie Folk",
+            "year": 2017,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "457",
+            "label": "Min Cao",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "5575",
+            "label": "Shannon Harvey",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17355",
+            "label": "Kael Storm",
+            "nodeType": "Person",
+            "tier": "collaborator",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17356",
+            "label": "Submerged Sonatas",
+            "nodeType": "Album",
+            "tier": "work",
+            "genre": "Oceanus Folk",
+            "year": 2031,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "12237",
+            "label": "Provence Aria",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Indie Rock",
+            "year": 2023,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "12238",
+            "label": "Lei Fu",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "12239",
+            "label": "Yan Dai",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "12240",
+            "label": "Daniel Mccormick",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "12241",
+            "label": "Lei Jin",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "17361",
+            "label": "Copper Canyon Ghosts",
+            "nodeType": "MusicalGroup",
+            "tier": "influenced",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "15855",
+            "label": "Sacred Fragments",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Synthwave",
+            "year": 2003,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "15856",
+            "label": "Ming Zhou",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          },
+          {
+            "id": "11254",
+            "label": "Divergent Memories",
+            "nodeType": "Song",
+            "tier": "collaborator",
+            "genre": "Indie Folk",
+            "year": 2017,
+            "size": 10,
+            "notable": true
+          },
+          {
+            "id": "11255",
+            "label": "Joshua Taylor",
+            "nodeType": "Person",
+            "tier": "influencer",
+            "genre": null,
+            "year": null,
+            "size": 16,
+            "notable": false
+          }
+        ],
+        "edges": [
+          {
+            "id": "17255-17280-PerformerOf",
+            "source": "17255",
+            "target": "17280",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17281-PerformerOf",
+            "source": "17255",
+            "target": "17281",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17282-PerformerOf",
+            "source": "17255",
+            "target": "17282",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17283-PerformerOf",
+            "source": "17255",
+            "target": "17283",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17284-PerformerOf",
+            "source": "17255",
+            "target": "17284",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17285-PerformerOf",
+            "source": "17255",
+            "target": "17285",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17226-17410-PerformerOf",
+            "source": "17226",
+            "target": "17410",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17410-PerformerOf",
+            "source": "17255",
+            "target": "17410",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17286-PerformerOf",
+            "source": "17255",
+            "target": "17286",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17288-PerformerOf",
+            "source": "17255",
+            "target": "17288",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17289-PerformerOf",
+            "source": "17255",
+            "target": "17289",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17287-PerformerOf",
+            "source": "17255",
+            "target": "17287",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17290-PerformerOf",
+            "source": "17255",
+            "target": "17290",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17291-PerformerOf",
+            "source": "17255",
+            "target": "17291",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17292-PerformerOf",
+            "source": "17255",
+            "target": "17292",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17293-PerformerOf",
+            "source": "17255",
+            "target": "17293",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17294-PerformerOf",
+            "source": "17255",
+            "target": "17294",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17349-17350-LyricistOf",
+            "source": "17349",
+            "target": "17350",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17255-17350-LyricistOf",
+            "source": "17255",
+            "target": "17350",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17349-17350-PerformerOf",
+            "source": "17349",
+            "target": "17350",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17350-PerformerOf",
+            "source": "17255",
+            "target": "17350",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17356-LyricistOf",
+            "source": "17255",
+            "target": "17356",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17355-17356-PerformerOf",
+            "source": "17355",
+            "target": "17356",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17356-PerformerOf",
+            "source": "17255",
+            "target": "17356",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17355-17356-ComposerOf",
+            "source": "17355",
+            "target": "17356",
+            "type": "ComposerOf"
+          },
+          {
+            "id": "17205-17272-ComposerOf",
+            "source": "17205",
+            "target": "17272",
+            "type": "ComposerOf"
+          },
+          {
+            "id": "17206-17272-ComposerOf",
+            "source": "17206",
+            "target": "17272",
+            "type": "ComposerOf"
+          },
+          {
+            "id": "17255-17272-PerformerOf",
+            "source": "17255",
+            "target": "17272",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17272-LyricistOf",
+            "source": "17255",
+            "target": "17272",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17255-17273-PerformerOf",
+            "source": "17255",
+            "target": "17273",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17273-LyricistOf",
+            "source": "17255",
+            "target": "17273",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17255-17274-PerformerOf",
+            "source": "17255",
+            "target": "17274",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17274-LyricistOf",
+            "source": "17255",
+            "target": "17274",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17189-17275-LyricistOf",
+            "source": "17189",
+            "target": "17275",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17255-17275-LyricistOf",
+            "source": "17255",
+            "target": "17275",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17190-17275-ComposerOf",
+            "source": "17190",
+            "target": "17275",
+            "type": "ComposerOf"
+          },
+          {
+            "id": "17191-17275-ComposerOf",
+            "source": "17191",
+            "target": "17275",
+            "type": "ComposerOf"
+          },
+          {
+            "id": "17255-17275-PerformerOf",
+            "source": "17255",
+            "target": "17275",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17276-PerformerOf",
+            "source": "17255",
+            "target": "17276",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17309-17276-LyricistOf",
+            "source": "17309",
+            "target": "17276",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17255-17276-LyricistOf",
+            "source": "17255",
+            "target": "17276",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17296-17276-ComposerOf",
+            "source": "17296",
+            "target": "17276",
+            "type": "ComposerOf"
+          },
+          {
+            "id": "17189-17277-LyricistOf",
+            "source": "17189",
+            "target": "17277",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17255-17277-LyricistOf",
+            "source": "17255",
+            "target": "17277",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17191-17277-ComposerOf",
+            "source": "17191",
+            "target": "17277",
+            "type": "ComposerOf"
+          },
+          {
+            "id": "17255-17277-PerformerOf",
+            "source": "17255",
+            "target": "17277",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17255-17278-PerformerOf",
+            "source": "17255",
+            "target": "17278",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "17311-17278-LyricistOf",
+            "source": "17311",
+            "target": "17278",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17255-17278-LyricistOf",
+            "source": "17255",
+            "target": "17278",
+            "type": "LyricistOf"
+          },
+          {
+            "id": "17310-17278-ComposerOf",
+            "source": "17310",
+            "target": "17278",
+            "type": "ComposerOf"
+          },
+          {
+            "id": "17255-17279-PerformerOf",
+            "source": "17255",
+            "target": "17279",
+            "type": "PerformerOf"
+          },
+          {
+            "id": "in-17255-17260-DirectlySamples",
+            "source": "17255",
+            "target": "17260",
+            "type": "DirectlySamples"
+          },
+          {
+            "id": "in-17255-17299-InStyleOf",
+            "source": "17255",
+            "target": "17299",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17255-17327-LyricalReferenceTo",
+            "source": "17255",
+            "target": "17327",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "in-17255-17192-InStyleOf",
+            "source": "17255",
+            "target": "17192",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17273-3881-InStyleOf",
+            "source": "17273",
+            "target": "3881",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17273-9848-CoverOf",
+            "source": "17273",
+            "target": "9848",
+            "type": "CoverOf"
+          },
+          {
+            "id": "in-17275-16312-CoverOf",
+            "source": "17275",
+            "target": "16312",
+            "type": "CoverOf"
+          },
+          {
+            "id": "in-17275-15855-InStyleOf",
+            "source": "17275",
+            "target": "15855",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17277-876-LyricalReferenceTo",
+            "source": "17277",
+            "target": "876",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "in-17277-3986-LyricalReferenceTo",
+            "source": "17277",
+            "target": "3986",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "in-17279-14658-InterpolatesFrom",
+            "source": "17279",
+            "target": "14658",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "in-17280-14933-CoverOf",
+            "source": "17280",
+            "target": "14933",
+            "type": "CoverOf"
+          },
+          {
+            "id": "in-17280-10534-InStyleOf",
+            "source": "17280",
+            "target": "10534",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17285-8207-InStyleOf",
+            "source": "17285",
+            "target": "8207",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17286-10903-InStyleOf",
+            "source": "17286",
+            "target": "10903",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17287-13589-LyricalReferenceTo",
+            "source": "17287",
+            "target": "13589",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "in-17287-11254-InterpolatesFrom",
+            "source": "17287",
+            "target": "11254",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "in-17289-5574-InStyleOf",
+            "source": "17289",
+            "target": "5574",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17290-12685-InterpolatesFrom",
+            "source": "17290",
+            "target": "12685",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "in-17290-12237-InStyleOf",
+            "source": "17290",
+            "target": "12237",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17292-13014-DirectlySamples",
+            "source": "17292",
+            "target": "13014",
+            "type": "DirectlySamples"
+          },
+          {
+            "id": "in-17292-6592-InStyleOf",
+            "source": "17292",
+            "target": "6592",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "in-17350-10016-CoverOf",
+            "source": "17350",
+            "target": "10016",
+            "type": "CoverOf"
+          },
+          {
+            "id": "out-17022-17255-InStyleOf",
+            "source": "17022",
+            "target": "17255",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "out-17032-17255-LyricalReferenceTo",
+            "source": "17032",
+            "target": "17255",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "out-17063-17255-InterpolatesFrom",
+            "source": "17063",
+            "target": "17255",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "out-17110-17255-InStyleOf",
+            "source": "17110",
+            "target": "17255",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "out-17126-17255-LyricalReferenceTo",
+            "source": "17126",
+            "target": "17255",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "out-17155-17255-InterpolatesFrom",
+            "source": "17155",
+            "target": "17255",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "out-17361-17255-DirectlySamples",
+            "source": "17361",
+            "target": "17255",
+            "type": "DirectlySamples"
+          }
+        ]
+      },
+      "timeline": [
+        {
+          "year": 2028,
+          "works": 5,
+          "notableWorks": 2,
+          "influenceIn": 9,
+          "influenceOut": 0
+        },
+        {
+          "year": 2030,
+          "works": 5,
+          "notableWorks": 2,
+          "influenceIn": 9,
+          "influenceOut": 0
+        },
+        {
+          "year": 2031,
+          "works": 2,
+          "notableWorks": 2,
+          "influenceIn": 5,
+          "influenceOut": 0
+        },
+        {
+          "year": 2032,
+          "works": 2,
+          "notableWorks": 1,
+          "influenceIn": 4,
+          "influenceOut": 0
+        },
+        {
+          "year": 2034,
+          "works": 4,
+          "notableWorks": 2,
+          "influenceIn": 8,
+          "influenceOut": 0
+        },
+        {
+          "year": 2036,
+          "works": 3,
+          "notableWorks": 2,
+          "influenceIn": 8,
+          "influenceOut": 0
+        },
+        {
+          "year": 2038,
+          "works": 2,
+          "notableWorks": 2,
+          "influenceIn": 11,
+          "influenceOut": 0
+        },
+        {
+          "year": 2040,
+          "works": 3,
+          "notableWorks": 1,
+          "influenceIn": 0,
+          "influenceOut": 0
+        }
+      ],
+      "topInfluencers": [
+        {
+          "id": "17260",
+          "name": "Ivy Echos",
+          "count": 1,
+          "types": {
+            "DirectlySamples": 1
+          },
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "17299",
+          "name": "The Saltwater Weavers",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "17327",
+          "name": "Drowned Harbor",
+          "count": 1,
+          "types": {
+            "LyricalReferenceTo": 1
+          },
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "17192",
+          "name": "The Fiddle & The Fjord",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Celtic Folk"
+        },
+        {
+          "id": "3760",
+          "name": "Min Long",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Americana"
+        },
+        {
+          "id": "3761",
+          "name": "Gang Shao",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Synthwave"
+        },
+        {
+          "id": "3763",
+          "name": "Qiang Yuan",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Synthwave"
+        },
+        {
+          "id": "934",
+          "name": "Jun Zhou",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Dream Pop"
+        },
+        {
+          "id": "16823",
+          "name": "Ursus",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Synthwave"
+        },
+        {
+          "id": "3882",
+          "name": "Juan Zhou",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Synthwave"
+        }
+      ],
+      "collaborators": [
+        {
+          "id": "17349",
+          "name": "Bea Azure",
+          "roles": [
+            "LyricistOf",
+            "PerformerOf"
+          ],
+          "collaborations": 3,
+          "works": [
+            "Tidesworn Ballads"
+          ],
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "17355",
+          "name": "Kael Storm",
+          "roles": [
+            "ComposerOf",
+            "PerformerOf"
+          ],
+          "collaborations": 3,
+          "works": [
+            "Submerged Sonatas"
+          ],
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "17226",
+          "name": "Kai Reynolds",
+          "roles": [
+            "PerformerOf"
+          ],
+          "collaborations": 2,
+          "works": [
+            "Seashell Serenade"
+          ],
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "17189",
+          "name": "Ewan MacCrae",
+          "roles": [
+            "LyricistOf"
+          ],
+          "collaborations": 2,
+          "works": [
+            "Coral Beats",
+            "Oceanbound"
+          ],
+          "primaryGenre": "Mixed"
+        },
+        {
+          "id": "17191",
+          "name": "Freya Lindholm",
+          "roles": [
+            "ComposerOf"
+          ],
+          "collaborations": 2,
+          "works": [
+            "Coral Beats",
+            "Oceanbound"
+          ],
+          "primaryGenre": "Mixed"
+        },
+        {
+          "id": "17205",
+          "name": "Liam O'Sullivan",
+          "roles": [
+            "ComposerOf"
+          ],
+          "collaborations": 1,
+          "works": [
+            "Tidal Pop Waves"
+          ],
+          "primaryGenre": "Mixed"
+        },
+        {
+          "id": "17206",
+          "name": "Fiona Mercer",
+          "roles": [
+            "ComposerOf"
+          ],
+          "collaborations": 1,
+          "works": [
+            "Tidal Pop Waves"
+          ],
+          "primaryGenre": "Mixed"
+        },
+        {
+          "id": "17190",
+          "name": "Astrid Nørgaard",
+          "roles": [
+            "ComposerOf"
+          ],
+          "collaborations": 1,
+          "works": [
+            "Coral Beats"
+          ],
+          "primaryGenre": "Mixed"
+        },
+        {
+          "id": "17309",
+          "name": "Levi Holloway",
+          "roles": [
+            "LyricistOf"
+          ],
+          "collaborations": 1,
+          "works": [
+            "Tides & Ballads"
+          ],
+          "primaryGenre": "Mixed"
+        },
+        {
+          "id": "17296",
+          "name": "Coralia Bellweather",
+          "roles": [
+            "ComposerOf"
+          ],
+          "collaborations": 1,
+          "works": [
+            "Tides & Ballads"
+          ],
+          "primaryGenre": "Mixed"
+        },
+        {
+          "id": "17311",
+          "name": "Jonah Calloway",
+          "roles": [
+            "LyricistOf"
+          ],
+          "collaborations": 1,
+          "works": [
+            "Echoes of the Deep"
+          ],
+          "primaryGenre": "Mixed"
+        },
+        {
+          "id": "17310",
+          "name": "Marin Thorne",
+          "roles": [
+            "ComposerOf"
+          ],
+          "collaborations": 1,
+          "works": [
+            "Echoes of the Deep"
+          ],
+          "primaryGenre": "Mixed"
+        }
+      ],
+      "influencedArtists": [
+        {
+          "id": "17022",
+          "name": "Cassette Future",
+          "directCount": 1,
+          "indirectCount": 0,
+          "primaryGenre": "Lo-Fi Electronica",
+          "types": {
+            "InStyleOf": 1
+          }
+        },
+        {
+          "id": "17032",
+          "name": "Silver Veil",
+          "directCount": 1,
+          "indirectCount": 0,
+          "primaryGenre": "Indie Pop",
+          "types": {
+            "LyricalReferenceTo": 1
+          }
+        },
+        {
+          "id": "17063",
+          "name": "The Phantom Operators",
+          "directCount": 1,
+          "indirectCount": 0,
+          "primaryGenre": "Jazz Surf Rock",
+          "types": {
+            "InterpolatesFrom": 1
+          }
+        },
+        {
+          "id": "17110",
+          "name": "The Hollow Monarchs",
+          "directCount": 1,
+          "indirectCount": 0,
+          "primaryGenre": "Post-Apocalyptic Folk",
+          "types": {
+            "InStyleOf": 1
+          }
+        },
+        {
+          "id": "17126",
+          "name": "Seraphina Vale",
+          "directCount": 1,
+          "indirectCount": 0,
+          "primaryGenre": "Avant-Garde Folk",
+          "types": {
+            "LyricalReferenceTo": 1
+          }
+        },
+        {
+          "id": "17155",
+          "name": "Jaye Finch",
+          "directCount": 1,
+          "indirectCount": 0,
+          "primaryGenre": "Synthpop",
+          "types": {
+            "InterpolatesFrom": 1
+          }
+        },
+        {
+          "id": "17361",
+          "name": "Copper Canyon Ghosts",
+          "directCount": 1,
+          "indirectCount": 0,
+          "primaryGenre": "Oceanus Folk",
+          "types": {
+            "DirectlySamples": 1
+          }
+        }
+      ],
+      "works": [
+        {
+          "id": 17282,
+          "name": "Chord of the Deep",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2028,
+          "notable": false
+        },
+        {
+          "id": 17280,
+          "name": "Electric Eel Love",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2028,
+          "notable": true
+        },
+        {
+          "id": 17279,
+          "name": "High Tide Heartbeat",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2028,
+          "notable": false
+        },
+        {
+          "id": 17281,
+          "name": "Sun-Drenched Daydream",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2028,
+          "notable": false
+        },
+        {
+          "id": 17272,
+          "name": "Tidal Pop Waves",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2028,
+          "notable": true
+        },
+        {
+          "id": 17285,
+          "name": "Driftwood Lullaby",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2030,
+          "notable": false
+        },
+        {
+          "id": 17283,
+          "name": "Heart of the Habitat",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2030,
+          "notable": false
+        },
+        {
+          "id": 17284,
+          "name": "Reef Rhythm",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2030,
+          "notable": false
+        },
+        {
+          "id": 17273,
+          "name": "Salty Dreams",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2030,
+          "notable": true
+        },
+        {
+          "id": 17410,
+          "name": "Seashell Serenade",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2030,
+          "notable": true
+        },
+        {
+          "id": 17356,
+          "name": "Submerged Sonatas",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2031,
+          "notable": true
+        },
+        {
+          "id": 17350,
+          "name": "Tidesworn Ballads",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2031,
+          "notable": true
+        },
+        {
+          "id": 17286,
+          "name": "Saltwater Hymn",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2032,
+          "notable": false
+        },
+        {
+          "id": 17274,
+          "name": "The Current & The Chord",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2032,
+          "notable": true
+        },
+        {
+          "id": 17289,
+          "name": "Barnacle Heart",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2034,
+          "notable": false
+        },
+        {
+          "id": 17275,
+          "name": "Coral Beats",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2034,
+          "notable": true
+        },
+        {
+          "id": 17288,
+          "name": "Into the Current",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2034,
+          "notable": false
+        },
+        {
+          "id": 17287,
+          "name": "Moon Over the Tide",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2034,
+          "notable": true
+        },
+        {
+          "id": 17290,
+          "name": "Fog & Fiddle",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2036,
+          "notable": true
+        },
+        {
+          "id": 17291,
+          "name": "The Fisherman's Prayer",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2036,
+          "notable": false
+        },
+        {
+          "id": 17276,
+          "name": "Tides & Ballads",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2036,
+          "notable": true
+        },
+        {
+          "id": 17277,
+          "name": "Oceanbound",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2038,
+          "notable": true
+        },
+        {
+          "id": 17292,
+          "name": "Stormsong",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2038,
+          "notable": true
+        },
+        {
+          "id": 17278,
+          "name": "Echoes of the Deep",
+          "type": "Album",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2040,
+          "notable": true
+        },
+        {
+          "id": 17293,
+          "name": "Salt in My Veins",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2040,
+          "notable": false
+        },
+        {
+          "id": 17294,
+          "name": "The Last Mariner",
+          "type": "Song",
+          "genre": "Oceanus Folk",
+          "releaseYear": 2040,
+          "notable": false
+        }
+      ]
+    },
+    "spread": {
+      "yearlySpread": [
+        {
+          "year": 1999,
+          "influencedWorks": 1,
+          "oceanusCreated": 0,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2000,
+          "influencedWorks": 2,
+          "oceanusCreated": 1,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 1
+        },
+        {
+          "year": 2001,
+          "influencedWorks": 0,
+          "oceanusCreated": 3,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 0,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2004,
+          "influencedWorks": 2,
+          "oceanusCreated": 1,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 1
+        },
+        {
+          "year": 2005,
+          "influencedWorks": 0,
+          "oceanusCreated": 1,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 0,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2007,
+          "influencedWorks": 7,
+          "oceanusCreated": 2,
+          "directSamples": 0,
+          "covers": 2,
+          "styleBorrowing": 4,
+          "lyricalReferences": 0,
+          "interpolations": 1
+        },
+        {
+          "year": 2009,
+          "influencedWorks": 1,
+          "oceanusCreated": 2,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2010,
+          "influencedWorks": 8,
+          "oceanusCreated": 9,
+          "directSamples": 1,
+          "covers": 4,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 2
+        },
+        {
+          "year": 2012,
+          "influencedWorks": 2,
+          "oceanusCreated": 0,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 1,
+          "interpolations": 0
+        },
+        {
+          "year": 2013,
+          "influencedWorks": 22,
+          "oceanusCreated": 20,
+          "directSamples": 3,
+          "covers": 4,
+          "styleBorrowing": 12,
+          "lyricalReferences": 1,
+          "interpolations": 2
+        },
+        {
+          "year": 2014,
+          "influencedWorks": 1,
+          "oceanusCreated": 0,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2015,
+          "influencedWorks": 2,
+          "oceanusCreated": 0,
+          "directSamples": 1,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2016,
+          "influencedWorks": 2,
+          "oceanusCreated": 1,
+          "directSamples": 1,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2017,
+          "influencedWorks": 39,
+          "oceanusCreated": 22,
+          "directSamples": 4,
+          "covers": 8,
+          "styleBorrowing": 12,
+          "lyricalReferences": 5,
+          "interpolations": 10
+        },
+        {
+          "year": 2018,
+          "influencedWorks": 7,
+          "oceanusCreated": 0,
+          "directSamples": 2,
+          "covers": 2,
+          "styleBorrowing": 1,
+          "lyricalReferences": 1,
+          "interpolations": 1
+        },
+        {
+          "year": 2019,
+          "influencedWorks": 5,
+          "oceanusCreated": 4,
+          "directSamples": 0,
+          "covers": 3,
+          "styleBorrowing": 2,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2020,
+          "influencedWorks": 33,
+          "oceanusCreated": 27,
+          "directSamples": 4,
+          "covers": 10,
+          "styleBorrowing": 12,
+          "lyricalReferences": 2,
+          "interpolations": 5
+        },
+        {
+          "year": 2021,
+          "influencedWorks": 6,
+          "oceanusCreated": 5,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 4,
+          "lyricalReferences": 0,
+          "interpolations": 2
+        },
+        {
+          "year": 2022,
+          "influencedWorks": 21,
+          "oceanusCreated": 7,
+          "directSamples": 5,
+          "covers": 7,
+          "styleBorrowing": 6,
+          "lyricalReferences": 1,
+          "interpolations": 2
+        },
+        {
+          "year": 2023,
+          "influencedWorks": 88,
+          "oceanusCreated": 59,
+          "directSamples": 12,
+          "covers": 14,
+          "styleBorrowing": 25,
+          "lyricalReferences": 19,
+          "interpolations": 18
+        },
+        {
+          "year": 2024,
+          "influencedWorks": 23,
+          "oceanusCreated": 16,
+          "directSamples": 3,
+          "covers": 5,
+          "styleBorrowing": 7,
+          "lyricalReferences": 2,
+          "interpolations": 6
+        },
+        {
+          "year": 2025,
+          "influencedWorks": 26,
+          "oceanusCreated": 14,
+          "directSamples": 0,
+          "covers": 9,
+          "styleBorrowing": 9,
+          "lyricalReferences": 4,
+          "interpolations": 4
+        },
+        {
+          "year": 2026,
+          "influencedWorks": 75,
+          "oceanusCreated": 51,
+          "directSamples": 6,
+          "covers": 7,
+          "styleBorrowing": 27,
+          "lyricalReferences": 16,
+          "interpolations": 19
+        },
+        {
+          "year": 2027,
+          "influencedWorks": 65,
+          "oceanusCreated": 17,
+          "directSamples": 8,
+          "covers": 16,
+          "styleBorrowing": 15,
+          "lyricalReferences": 9,
+          "interpolations": 17
+        },
+        {
+          "year": 2028,
+          "influencedWorks": 49,
+          "oceanusCreated": 15,
+          "directSamples": 1,
+          "covers": 4,
+          "styleBorrowing": 16,
+          "lyricalReferences": 10,
+          "interpolations": 18
+        },
+        {
+          "year": 2029,
+          "influencedWorks": 80,
+          "oceanusCreated": 43,
+          "directSamples": 9,
+          "covers": 15,
+          "styleBorrowing": 28,
+          "lyricalReferences": 17,
+          "interpolations": 11
+        },
+        {
+          "year": 2030,
+          "influencedWorks": 22,
+          "oceanusCreated": 12,
+          "directSamples": 2,
+          "covers": 3,
+          "styleBorrowing": 7,
+          "lyricalReferences": 6,
+          "interpolations": 4
+        },
+        {
+          "year": 2031,
+          "influencedWorks": 4,
+          "oceanusCreated": 8,
+          "directSamples": 1,
+          "covers": 1,
+          "styleBorrowing": 2,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2032,
+          "influencedWorks": 0,
+          "oceanusCreated": 3,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 0,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2033,
+          "influencedWorks": 1,
+          "oceanusCreated": 1,
+          "directSamples": 0,
+          "covers": 1,
+          "styleBorrowing": 0,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2034,
+          "influencedWorks": 2,
+          "oceanusCreated": 10,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 2,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2035,
+          "influencedWorks": 1,
+          "oceanusCreated": 5,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 0,
+          "lyricalReferences": 0,
+          "interpolations": 1
+        },
+        {
+          "year": 2036,
+          "influencedWorks": 1,
+          "oceanusCreated": 2,
+          "directSamples": 0,
+          "covers": 1,
+          "styleBorrowing": 0,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2037,
+          "influencedWorks": 1,
+          "oceanusCreated": 4,
+          "directSamples": 0,
+          "covers": 0,
+          "styleBorrowing": 1,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        },
+        {
+          "year": 2038,
+          "influencedWorks": 1,
+          "oceanusCreated": 6,
+          "directSamples": 0,
+          "covers": 1,
+          "styleBorrowing": 0,
+          "lyricalReferences": 0,
+          "interpolations": 0
+        }
+      ],
+      "topGenres": [
+        {
+          "genre": "Oceanus Folk",
+          "count": 1932
+        },
+        {
+          "genre": "Indie Folk",
+          "count": 793
+        },
+        {
+          "genre": "Desert Rock",
+          "count": 691
+        },
+        {
+          "genre": "Dream Pop",
+          "count": 594
+        },
+        {
+          "genre": "Space Rock",
+          "count": 371
+        },
+        {
+          "genre": "Synthwave",
+          "count": 256
+        },
+        {
+          "genre": "Doom Metal",
+          "count": 131
+        },
+        {
+          "genre": "Jazz Surf Rock",
+          "count": 122
+        },
+        {
+          "genre": "Americana",
+          "count": 108
+        },
+        {
+          "genre": "Post-Apocalyptic Folk",
+          "count": 55
+        },
+        {
+          "genre": "Alternative Rock",
+          "count": 42
+        },
+        {
+          "genre": "Synthpop",
+          "count": 39
+        }
+      ],
+      "topArtists": [
+        {
+          "id": "5038",
+          "name": "Min He",
+          "count": 36,
+          "primaryGenre": "Space Rock"
+        },
+        {
+          "id": "1180",
+          "name": "Guiying Liao",
+          "count": 28,
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "1182",
+          "name": "Yan Zou",
+          "count": 28,
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "11338",
+          "name": "Ming Xiao",
+          "count": 26,
+          "primaryGenre": "Synthwave"
+        },
+        {
+          "id": "4394",
+          "name": "Xiuying Li",
+          "count": 26,
+          "primaryGenre": "Indie Folk"
+        },
+        {
+          "id": "4395",
+          "name": "Xia Cui",
+          "count": 26,
+          "primaryGenre": "Indie Folk"
+        },
+        {
+          "id": "2355",
+          "name": "Qiang Cui",
+          "count": 24,
+          "primaryGenre": "Desert Rock"
+        },
+        {
+          "id": "6067",
+          "name": "Yong Wen",
+          "count": 24,
+          "primaryGenre": "Desert Rock"
+        },
+        {
+          "id": "16802",
+          "name": "Cosmic Drift",
+          "count": 24,
+          "primaryGenre": "Indie Folk"
+        },
+        {
+          "id": "1492",
+          "name": "Juan Yu",
+          "count": 23,
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "1493",
+          "name": "Lei Jin",
+          "count": 23,
+          "primaryGenre": "Oceanus Folk"
+        },
+        {
+          "id": "2850",
+          "name": "Min Fu",
+          "count": 23,
+          "primaryGenre": "Lo-Fi Electronica"
+        }
+      ],
+      "inspirationShift": {
+        "breakoutYear": 2030,
+        "before": [
+          {
+            "genre": "Indie Folk",
+            "count": 1023
+          },
+          {
+            "genre": "Psychedelic Rock",
+            "count": 177
+          },
+          {
+            "genre": "Synthpop",
+            "count": 153
+          },
+          {
+            "genre": "Synthwave",
+            "count": 135
+          },
+          {
+            "genre": "Doom Metal",
+            "count": 103
+          },
+          {
+            "genre": "Desert Rock",
+            "count": 103
+          },
+          {
+            "genre": "Dream Pop",
+            "count": 62
+          },
+          {
+            "genre": "Americana",
+            "count": 33
+          },
+          {
+            "genre": "Indie Rock",
+            "count": 30
+          },
+          {
+            "genre": "Symphonic Metal",
+            "count": 13
+          }
+        ],
+        "after": [
+          {
+            "genre": "Space Rock",
+            "count": 84
+          },
+          {
+            "genre": "Dream Pop",
+            "count": 39
+          },
+          {
+            "genre": "Indie Folk",
+            "count": 24
+          },
+          {
+            "genre": "Doom Metal",
+            "count": 12
+          },
+          {
+            "genre": "Indie Rock",
+            "count": 11
+          },
+          {
+            "genre": "Post-Apocalyptic Folk",
+            "count": 11
+          },
+          {
+            "genre": "Desert Rock",
+            "count": 11
+          },
+          {
+            "genre": "Synthwave",
+            "count": 11
+          },
+          {
+            "genre": "Symphonic Metal",
+            "count": 10
+          },
+          {
+            "genre": "Blues Rock",
+            "count": 9
+          }
+        ]
+      },
+      "graph": {
+        "nodes": [
+          {
+            "id": "16802",
+            "label": "Cosmic Drift",
+            "nodeType": "MusicalGroup",
+            "tier": "external",
+            "genre": "Indie Folk",
+            "size": 15
+          },
+          {
+            "id": "11338",
+            "label": "Ming Xiao",
+            "nodeType": "Person",
+            "tier": "external",
+            "genre": "Synthwave",
+            "size": 15
+          },
+          {
+            "id": "4394",
+            "label": "Xiuying Li",
+            "nodeType": "Person",
+            "tier": "external",
+            "genre": "Indie Folk",
+            "size": 15
+          },
+          {
+            "id": "4395",
+            "label": "Xia Cui",
+            "nodeType": "Person",
+            "tier": "external",
+            "genre": "Indie Folk",
+            "size": 15
+          },
+          {
+            "id": "5038",
+            "label": "Min He",
+            "nodeType": "Person",
+            "tier": "external",
+            "genre": "Space Rock",
+            "size": 15
+          },
+          {
+            "id": "3026",
+            "label": "Sandra Smith",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 22
+          },
+          {
+            "id": "1843",
+            "label": "Chao Tan",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 22
+          },
+          {
+            "id": "3027",
+            "label": "Xiulan Ye",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 22
+          },
+          {
+            "id": "3029",
+            "label": "Donna Caldwell",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 22
+          },
+          {
+            "id": "3030",
+            "label": "Chao Wu",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 22
+          },
+          {
+            "id": "3028",
+            "label": "Xia Jia",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 22
+          },
+          {
+            "id": "2355",
+            "label": "Qiang Cui",
+            "nodeType": "Person",
+            "tier": "external",
+            "genre": "Desert Rock",
+            "size": 15
+          },
+          {
+            "id": "6067",
+            "label": "Yong Wen",
+            "nodeType": "Person",
+            "tier": "external",
+            "genre": "Desert Rock",
+            "size": 15
+          },
+          {
+            "id": "1492",
+            "label": "Juan Yu",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 15
+          },
+          {
+            "id": "1180",
+            "label": "Guiying Liao",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 15
+          },
+          {
+            "id": "1182",
+            "label": "Yan Zou",
+            "nodeType": "Person",
+            "tier": "oceanus",
+            "genre": "Oceanus Folk",
+            "size": 15
+          }
+        ],
+        "edges": [
+          {
+            "id": "3026-1180",
+            "source": "3026",
+            "target": "1180",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3026-1182",
+            "source": "3026",
+            "target": "1182",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3026-5038",
+            "source": "3026",
+            "target": "5038",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "3027-1180",
+            "source": "3027",
+            "target": "1180",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3027-1182",
+            "source": "3027",
+            "target": "1182",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3027-5038",
+            "source": "3027",
+            "target": "5038",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "3028-1180",
+            "source": "3028",
+            "target": "1180",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3028-1182",
+            "source": "3028",
+            "target": "1182",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3028-5038",
+            "source": "3028",
+            "target": "5038",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "3029-1180",
+            "source": "3029",
+            "target": "1180",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3029-1182",
+            "source": "3029",
+            "target": "1182",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3029-5038",
+            "source": "3029",
+            "target": "5038",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "3030-1180",
+            "source": "3030",
+            "target": "1180",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3030-1182",
+            "source": "3030",
+            "target": "1182",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "3030-5038",
+            "source": "3030",
+            "target": "5038",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1180-1182",
+            "source": "1180",
+            "target": "1182",
+            "type": "OceanusInfluence",
+            "weight": 3
+          },
+          {
+            "id": "1180-5038",
+            "source": "1180",
+            "target": "5038",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1182-1180",
+            "source": "1182",
+            "target": "1180",
+            "type": "OceanusInfluence",
+            "weight": 3
+          },
+          {
+            "id": "1182-5038",
+            "source": "1182",
+            "target": "5038",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1843-1492",
+            "source": "1843",
+            "target": "1492",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "1843-3026",
+            "source": "1843",
+            "target": "3026",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1843-3027",
+            "source": "1843",
+            "target": "3027",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "1843-3028",
+            "source": "1843",
+            "target": "3028",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1843-3029",
+            "source": "1843",
+            "target": "3029",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "1843-3030",
+            "source": "1843",
+            "target": "3030",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "1843-5038",
+            "source": "1843",
+            "target": "5038",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1843-16802",
+            "source": "1843",
+            "target": "16802",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "1843-4394",
+            "source": "1843",
+            "target": "4394",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "1843-4395",
+            "source": "1843",
+            "target": "4395",
+            "type": "OceanusInfluence",
+            "weight": 2
+          },
+          {
+            "id": "1843-2355",
+            "source": "1843",
+            "target": "2355",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1843-6067",
+            "source": "1843",
+            "target": "6067",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1843-1180",
+            "source": "1843",
+            "target": "1180",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1843-1182",
+            "source": "1843",
+            "target": "1182",
+            "type": "OceanusInfluence",
+            "weight": 1
+          },
+          {
+            "id": "1843-11338",
+            "source": "1843",
+            "target": "11338",
+            "type": "OceanusInfluence",
+            "weight": 1
+          }
+        ]
+      }
+    },
+    "rising": {
+      "definition": {
+        "summary": "A rising Oceanus Folk star stays active past 2035, remains genre-focused, collaborates broadly, and starts receiving stylistic echoes from peers.",
+        "criteria": [
+          "Recent activity after 2035",
+          "High Oceanus Folk concentration",
+          "Dense collaboration network",
+          "Growing influence received from peers",
+          "Early chart visibility through notable works"
+        ]
+      },
+      "comparators": [
+        {
+          "id": 17255,
+          "name": "Sailor Shift",
+          "nodeType": "Person",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2040,
+          "careerStart": 2028,
+          "worksCount": 26,
+          "oceanusCount": 26,
+          "oceanusRatio": 1.0,
+          "notableCount": 14,
+          "collaborationDegree": 0,
+          "influenceReceived": 7,
+          "influenceAbsorbed": 58,
+          "score": 100,
+          "worksPreview": [
+            {
+              "id": 17282,
+              "name": "Chord of the Deep",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2028,
+              "notable": false
+            },
+            {
+              "id": 17280,
+              "name": "Electric Eel Love",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2028,
+              "notable": true
+            },
+            {
+              "id": 17279,
+              "name": "High Tide Heartbeat",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2028,
+              "notable": false
+            },
+            {
+              "id": 17281,
+              "name": "Sun-Drenched Daydream",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2028,
+              "notable": false
+            },
+            {
+              "id": 17272,
+              "name": "Tidal Pop Waves",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2028,
+              "notable": true
+            }
+          ]
+        },
+        {
+          "id": 17349,
+          "name": "Bea Azure",
+          "nodeType": "Person",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2035,
+          "careerStart": 2031,
+          "worksCount": 7,
+          "oceanusCount": 7,
+          "oceanusRatio": 1.0,
+          "notableCount": 7,
+          "collaborationDegree": 3,
+          "influenceReceived": 0,
+          "influenceAbsorbed": 43,
+          "score": 80.5,
+          "worksPreview": [
+            {
+              "id": 17353,
+              "name": "Moonlit Kelp Forest Dance",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17354,
+              "name": "Seven Fathoms Deep",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17351,
+              "name": "The Siren's Sigh",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17350,
+              "name": "Tidesworn Ballads",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17352,
+              "name": "Whispers on the Jetty Wind",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            }
+          ]
+        },
+        {
+          "id": 17355,
+          "name": "Kael Storm",
+          "nodeType": "Person",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2035,
+          "careerStart": 2031,
+          "worksCount": 7,
+          "oceanusCount": 7,
+          "oceanusRatio": 1.0,
+          "notableCount": 7,
+          "collaborationDegree": 3,
+          "influenceReceived": 0,
+          "influenceAbsorbed": 14,
+          "score": 80.5,
+          "worksPreview": [
+            {
+              "id": 17358,
+              "name": "Coral Bloom Energy",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17360,
+              "name": "Deep Sea Reverie",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17359,
+              "name": "Song of the Wandering Whale",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17356,
+              "name": "Submerged Sonatas",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17357,
+              "name": "The Language of the Tides",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            }
+          ]
+        }
+      ],
+      "candidates": [
+        {
+          "id": 17349,
+          "name": "Bea Azure",
+          "nodeType": "Person",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2035,
+          "careerStart": 2031,
+          "worksCount": 7,
+          "oceanusCount": 7,
+          "oceanusRatio": 1.0,
+          "notableCount": 7,
+          "collaborationDegree": 3,
+          "influenceReceived": 0,
+          "influenceAbsorbed": 43,
+          "score": 80.5,
+          "worksPreview": [
+            {
+              "id": 17353,
+              "name": "Moonlit Kelp Forest Dance",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17354,
+              "name": "Seven Fathoms Deep",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17351,
+              "name": "The Siren's Sigh",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17350,
+              "name": "Tidesworn Ballads",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17352,
+              "name": "Whispers on the Jetty Wind",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            }
+          ]
+        },
+        {
+          "id": 17355,
+          "name": "Kael Storm",
+          "nodeType": "Person",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2035,
+          "careerStart": 2031,
+          "worksCount": 7,
+          "oceanusCount": 7,
+          "oceanusRatio": 1.0,
+          "notableCount": 7,
+          "collaborationDegree": 3,
+          "influenceReceived": 0,
+          "influenceAbsorbed": 14,
+          "score": 80.5,
+          "worksPreview": [
+            {
+              "id": 17358,
+              "name": "Coral Bloom Energy",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17360,
+              "name": "Deep Sea Reverie",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17359,
+              "name": "Song of the Wandering Whale",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17356,
+              "name": "Submerged Sonatas",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            },
+            {
+              "id": 17357,
+              "name": "The Language of the Tides",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2031,
+              "notable": true
+            }
+          ]
+        },
+        {
+          "id": 17046,
+          "name": "The Brine Choir",
+          "nodeType": "MusicalGroup",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2038,
+          "careerStart": 2034,
+          "worksCount": 7,
+          "oceanusCount": 7,
+          "oceanusRatio": 1.0,
+          "notableCount": 4,
+          "collaborationDegree": 6,
+          "influenceReceived": 0,
+          "influenceAbsorbed": 7,
+          "score": 80.3,
+          "worksPreview": [
+            {
+              "id": 17047,
+              "name": "Drifting Between the Stars and the Sea",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2034,
+              "notable": true
+            },
+            {
+              "id": 17051,
+              "name": "Echoes in a Seashell",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2034,
+              "notable": false
+            },
+            {
+              "id": 17050,
+              "name": "Star-Touched Tides",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2034,
+              "notable": true
+            },
+            {
+              "id": 17048,
+              "name": "Artificial Sunsets",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2035,
+              "notable": true
+            },
+            {
+              "id": 17052,
+              "name": "Beneath the Celestial Wake",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2035,
+              "notable": false
+            }
+          ]
+        },
+        {
+          "id": 17361,
+          "name": "Copper Canyon Ghosts",
+          "nodeType": "MusicalGroup",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2035,
+          "careerStart": 2034,
+          "worksCount": 7,
+          "oceanusCount": 7,
+          "oceanusRatio": 1.0,
+          "notableCount": 7,
+          "collaborationDegree": 2,
+          "influenceReceived": 0,
+          "influenceAbsorbed": 30,
+          "score": 78.0,
+          "worksPreview": [
+            {
+              "id": 17366,
+              "name": "Canyon Echoes, Ocean Dreams",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2034,
+              "notable": true
+            },
+            {
+              "id": 17364,
+              "name": "Crimson Cliffs Awakening",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2034,
+              "notable": true
+            },
+            {
+              "id": 17365,
+              "name": "Salt-Stained Letters",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2034,
+              "notable": true
+            },
+            {
+              "id": 17362,
+              "name": "Tide-Worn Tales",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2034,
+              "notable": true
+            },
+            {
+              "id": 17368,
+              "name": "Shadows in Smuggler's Cove",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2035,
+              "notable": true
+            }
+          ]
+        },
+        {
+          "id": 17120,
+          "name": "Selkie's Hollow",
+          "nodeType": "MusicalGroup",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2037,
+          "careerStart": 2037,
+          "worksCount": 5,
+          "oceanusCount": 5,
+          "oceanusRatio": 1.0,
+          "notableCount": 2,
+          "collaborationDegree": 4,
+          "influenceReceived": 0,
+          "influenceAbsorbed": 12,
+          "score": 70.0,
+          "worksPreview": [
+            {
+              "id": 17121,
+              "name": "Ballads for the Low Tide",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2037,
+              "notable": true
+            },
+            {
+              "id": 17123,
+              "name": "Sea Glass Memories",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2037,
+              "notable": false
+            },
+            {
+              "id": 17122,
+              "name": "Skin and Saltwater",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2037,
+              "notable": false
+            },
+            {
+              "id": 17124,
+              "name": "Vanished with the Current",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2037,
+              "notable": false
+            },
+            {
+              "id": 17125,
+              "name": "When the Tide Calls My Name",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2037,
+              "notable": true
+            }
+          ]
+        },
+        {
+          "id": 16987,
+          "name": "Tidal Reverie",
+          "nodeType": "MusicalGroup",
+          "primaryGenre": "Oceanus Folk",
+          "latestYear": 2035,
+          "careerStart": 2033,
+          "worksCount": 5,
+          "oceanusCount": 5,
+          "oceanusRatio": 1.0,
+          "notableCount": 2,
+          "collaborationDegree": 6,
+          "influenceReceived": 0,
+          "influenceAbsorbed": 3,
+          "score": 62.2,
+          "worksPreview": [
+            {
+              "id": 16989,
+              "name": "Ballads for the End of Time",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2033,
+              "notable": true
+            },
+            {
+              "id": 16992,
+              "name": "Beneath the Coral Veil",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2033,
+              "notable": false
+            },
+            {
+              "id": 16991,
+              "name": "Forgotten Harbors",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2035,
+              "notable": false
+            },
+            {
+              "id": 16988,
+              "name": "Songs from the Drowned World",
+              "type": "Album",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2035,
+              "notable": true
+            },
+            {
+              "id": 16990,
+              "name": "The Bells Beneath the Waves",
+              "type": "Song",
+              "genre": "Oceanus Folk",
+              "releaseYear": 2035,
+              "notable": false
+            }
+          ]
+        }
+      ],
+      "topThree": [
+        "17349",
+        "17355",
+        "17046"
+      ],
+      "trajectories": [
+        {
+          "id": "17255",
+          "name": "Sailor Shift",
+          "series": [
+            {
+              "year": 2028,
+              "releases": 5,
+              "notable": 2,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2030,
+              "releases": 5,
+              "notable": 2,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2031,
+              "releases": 2,
+              "notable": 2,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2032,
+              "releases": 2,
+              "notable": 1,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2034,
+              "releases": 4,
+              "notable": 2,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2036,
+              "releases": 3,
+              "notable": 2,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2038,
+              "releases": 2,
+              "notable": 2,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2040,
+              "releases": 3,
+              "notable": 1,
+              "influenceReceived": 0
+            }
+          ]
+        },
+        {
+          "id": "17349",
+          "name": "Bea Azure",
+          "series": [
+            {
+              "year": 2031,
+              "releases": 5,
+              "notable": 5,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2034,
+              "releases": 1,
+              "notable": 1,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2035,
+              "releases": 1,
+              "notable": 1,
+              "influenceReceived": 0
+            }
+          ]
+        },
+        {
+          "id": "17355",
+          "name": "Kael Storm",
+          "series": [
+            {
+              "year": 2031,
+              "releases": 5,
+              "notable": 5,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2034,
+              "releases": 1,
+              "notable": 1,
+              "influenceReceived": 0
+            },
+            {
+              "year": 2035,
+              "releases": 1,
+              "notable": 1,
+              "influenceReceived": 0
+            }
+          ]
+        }
+      ],
+      "graph": {
+        "nodes": [
+          {
+            "id": "11913",
+            "label": "Guiying Peng",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Blues Rock",
+            "size": 12
+          },
+          {
+            "id": "12948",
+            "label": "Brooke Olson",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Blues Rock",
+            "size": 12
+          },
+          {
+            "id": "7829",
+            "label": "Whitney Taylor",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Southern Gothic Rock",
+            "size": 12
+          },
+          {
+            "id": "17046",
+            "label": "The Brine Choir",
+            "nodeType": "MusicalGroup",
+            "tier": "predicted",
+            "genre": "Oceanus Folk",
+            "size": 18
+          },
+          {
+            "id": "14108",
+            "label": "Tao Hu",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Blues Rock",
+            "size": 12
+          },
+          {
+            "id": "10018",
+            "label": "Trevor Bass",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Symphonic Metal",
+            "size": 12
+          },
+          {
+            "id": "10019",
+            "label": "Xiuying Du",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Symphonic Metal",
+            "size": 12
+          },
+          {
+            "id": "10020",
+            "label": "Xia Yuan",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Symphonic Metal",
+            "size": 12
+          },
+          {
+            "id": "10021",
+            "label": "Sandra Burke",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Symphonic Metal",
+            "size": 12
+          },
+          {
+            "id": "10022",
+            "label": "Yan Li",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Symphonic Metal",
+            "size": 12
+          },
+          {
+            "id": "17314",
+            "label": "The Tide Singer's Knot",
+            "nodeType": "MusicalGroup",
+            "tier": "community",
+            "genre": "Oceanus Folk",
+            "size": 12
+          },
+          {
+            "id": "7085",
+            "label": "Wendy Brown",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Indie Folk",
+            "size": 12
+          },
+          {
+            "id": "17327",
+            "label": "Drowned Harbor",
+            "nodeType": "MusicalGroup",
+            "tier": "community",
+            "genre": "Oceanus Folk",
+            "size": 12
+          },
+          {
+            "id": "8752",
+            "label": "Anita Hamerla",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Alternative Rock",
+            "size": 12
+          },
+          {
+            "id": "305",
+            "label": "Bekir Bruder",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Symphonic Metal",
+            "size": 12
+          },
+          {
+            "id": "17207",
+            "label": "Wayfinder's Lament",
+            "nodeType": "MusicalGroup",
+            "tier": "community",
+            "genre": "Acoustic Folk",
+            "size": 12
+          },
+          {
+            "id": "12859",
+            "label": "Min Qin",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Doom Metal",
+            "size": 12
+          },
+          {
+            "id": "12860",
+            "label": "Vincent Seifert",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Doom Metal",
+            "size": 12
+          },
+          {
+            "id": "17349",
+            "label": "Bea Azure",
+            "nodeType": "Person",
+            "tier": "predicted",
+            "genre": "Oceanus Folk",
+            "size": 18
+          },
+          {
+            "id": "17355",
+            "label": "Kael Storm",
+            "nodeType": "Person",
+            "tier": "predicted",
+            "genre": "Oceanus Folk",
+            "size": 18
+          },
+          {
+            "id": "17255",
+            "label": "Sailor Shift",
+            "nodeType": "Person",
+            "tier": "anchor",
+            "genre": "Oceanus Folk",
+            "size": 24
+          },
+          {
+            "id": "17260",
+            "label": "Ivy Echos",
+            "nodeType": "MusicalGroup",
+            "tier": "community",
+            "genre": "Oceanus Folk",
+            "size": 12
+          },
+          {
+            "id": "14192",
+            "label": "Ping Pan",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Dream Pop",
+            "size": 12
+          },
+          {
+            "id": "7027",
+            "label": "Sheryl Roman",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Americana",
+            "size": 12
+          },
+          {
+            "id": "7029",
+            "label": "Jason Aguirre",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Americana",
+            "size": 12
+          },
+          {
+            "id": "8955",
+            "label": "Stephanie Huhn",
+            "nodeType": "Person",
+            "tier": "community",
+            "genre": "Doom Metal",
+            "size": 12
+          }
+        ],
+        "edges": [
+          {
+            "id": "11913-17046-LyricalReferenceTo",
+            "source": "11913",
+            "target": "17046",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "12948-17046-InStyleOf",
+            "source": "12948",
+            "target": "17046",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "7829-17349-DirectlySamples",
+            "source": "7829",
+            "target": "17349",
+            "type": "DirectlySamples"
+          },
+          {
+            "id": "14108-17046-InStyleOf",
+            "source": "14108",
+            "target": "17046",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "10018-17349-CoverOf",
+            "source": "10018",
+            "target": "17349",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10018-17255-CoverOf",
+            "source": "10018",
+            "target": "17255",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10019-17349-CoverOf",
+            "source": "10019",
+            "target": "17349",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10019-17255-CoverOf",
+            "source": "10019",
+            "target": "17255",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10020-17349-CoverOf",
+            "source": "10020",
+            "target": "17349",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10020-17255-CoverOf",
+            "source": "10020",
+            "target": "17255",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10021-17349-CoverOf",
+            "source": "10021",
+            "target": "17349",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10021-17255-CoverOf",
+            "source": "10021",
+            "target": "17255",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10022-17349-CoverOf",
+            "source": "10022",
+            "target": "17349",
+            "type": "CoverOf"
+          },
+          {
+            "id": "10022-17255-CoverOf",
+            "source": "10022",
+            "target": "17255",
+            "type": "CoverOf"
+          },
+          {
+            "id": "17314-17260-InStyleOf",
+            "source": "17314",
+            "target": "17260",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "17314-17355-LyricalReferenceTo",
+            "source": "17314",
+            "target": "17355",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "7085-17355-InterpolatesFrom",
+            "source": "7085",
+            "target": "17355",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "7085-17349-InterpolatesFrom",
+            "source": "7085",
+            "target": "17349",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "17327-17046-DirectlySamples",
+            "source": "17327",
+            "target": "17046",
+            "type": "DirectlySamples"
+          },
+          {
+            "id": "17327-17255-LyricalReferenceTo",
+            "source": "17327",
+            "target": "17255",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "17327-17349-LyricalReferenceTo",
+            "source": "17327",
+            "target": "17349",
+            "type": "LyricalReferenceTo"
+          },
+          {
+            "id": "8752-17046-InterpolatesFrom",
+            "source": "8752",
+            "target": "17046",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "305-17355-InStyleOf",
+            "source": "305",
+            "target": "17355",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "305-17349-InStyleOf",
+            "source": "305",
+            "target": "17349",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "17207-17355-InStyleOf",
+            "source": "17207",
+            "target": "17355",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "12859-17355-InStyleOf",
+            "source": "12859",
+            "target": "17355",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "12859-17349-InStyleOf",
+            "source": "12859",
+            "target": "17349",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "12860-17355-InStyleOf",
+            "source": "12860",
+            "target": "17355",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "12860-17349-InStyleOf",
+            "source": "12860",
+            "target": "17349",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "17260-17255-DirectlySamples",
+            "source": "17260",
+            "target": "17255",
+            "type": "DirectlySamples"
+          },
+          {
+            "id": "17260-17349-InStyleOf",
+            "source": "17260",
+            "target": "17349",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "14192-17355-DirectlySamples",
+            "source": "14192",
+            "target": "17355",
+            "type": "DirectlySamples"
+          },
+          {
+            "id": "14192-17349-DirectlySamples",
+            "source": "14192",
+            "target": "17349",
+            "type": "DirectlySamples"
+          },
+          {
+            "id": "7027-17046-InterpolatesFrom",
+            "source": "7027",
+            "target": "17046",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "7029-17046-InterpolatesFrom",
+            "source": "7029",
+            "target": "17046",
+            "type": "InterpolatesFrom"
+          },
+          {
+            "id": "8955-17355-InStyleOf",
+            "source": "8955",
+            "target": "17355",
+            "type": "InStyleOf"
+          },
+          {
+            "id": "8955-17349-InStyleOf",
+            "source": "8955",
+            "target": "17349",
+            "type": "InStyleOf"
+          }
+        ]
+      }
+    }
+  }
+}
