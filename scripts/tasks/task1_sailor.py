@@ -53,6 +53,7 @@ def build_sailor_task(
                         "source": person_id,
                         "target": work_id,
                         "type": edge_type,
+                        "year": parse_year(work_node.get("release_date")),
                     }
                 )
                 if person_id != sailor_id:
@@ -68,6 +69,7 @@ def build_sailor_task(
                     "source": performer_id,
                     "target": work_id,
                     "type": "PerformerOf",
+                    "year": parse_year(work_node.get("release_date")),
                 }
             )
             if performer_id != sailor_id:
@@ -77,6 +79,7 @@ def build_sailor_task(
 
     influencer_counter = Counter()
     influencer_types = defaultdict(Counter)
+    influencer_yearly = defaultdict(Counter)
     influenced_counter = Counter()
     influenced_types = defaultdict(Counter)
 
@@ -84,6 +87,8 @@ def build_sailor_task(
         influencer_id = record["artist"]
         influencer_counter[influencer_id] += 1
         influencer_types[influencer_id][record["type"]] += 1
+        if record.get("sourceYear") is not None:
+            influencer_yearly[influencer_id][record["sourceYear"]] += 1
         if record["targetType"] in WORK_TYPES:
             graph_nodes.add(record["target"])
         graph_nodes.add(influencer_id)
@@ -93,6 +98,7 @@ def build_sailor_task(
                 "source": record["source"],
                 "target": record["target"],
                 "type": record["type"],
+                "year": record.get("sourceYear"),
             }
         )
 
@@ -109,6 +115,7 @@ def build_sailor_task(
                 "source": record["source"],
                 "target": record["target"],
                 "type": record["type"],
+                "year": record.get("sourceYear"),
             }
         )
 
@@ -167,6 +174,7 @@ def build_sailor_task(
                 "source": str(edge["source"]),
                 "target": str(edge["target"]),
                 "type": edge["type"],
+                "year": edge.get("year"),
             }
         )
 
@@ -179,8 +187,34 @@ def build_sailor_task(
             "works": sorted(node_name(nodes[work_id]) for work_id in collaborator_work_map[collaborator_id])[:4],
             "primaryGenre": artist_primary_genre(collaborator_id, nodes, artist_to_works),
         }
-        for collaborator_id, _ in collaborator_counter.most_common(12)
+        for collaborator_id, _ in collaborator_counter.most_common()
     ]
+
+    collaborator_downstream = []
+    for collaborator_id in collaborator_counter:
+        downstream_map = defaultdict(lambda: {"count": 0, "years": []})
+        for record in influence_out.get(collaborator_id, []):
+            target = record["artist"]
+            downstream_map[target]["count"] += 1
+            if record.get("sourceYear") is not None:
+                downstream_map[target]["years"].append(record["sourceYear"])
+        if downstream_map:
+            downstream_list = []
+            for artist_id, data in sorted(downstream_map.items(), key=lambda x: -x[1]["count"]):
+                item = {
+                    "id": str(artist_id),
+                    "name": node_name(nodes[artist_id]),
+                    "count": data["count"],
+                    "primaryGenre": artist_primary_genre(artist_id, nodes, artist_to_works),
+                }
+                if data["years"]:
+                    item["year"] = min(data["years"])
+                downstream_list.append(item)
+            collaborator_downstream.append({
+                "collaboratorId": str(collaborator_id),
+                "collaboratorName": node_name(nodes[collaborator_id]),
+                "downstream": downstream_list,
+            })
 
     top_influencers = [
         {
@@ -189,15 +223,18 @@ def build_sailor_task(
             "count": count,
             "types": dict(influencer_types[artist_id]),
             "primaryGenre": artist_primary_genre(artist_id, nodes, artist_to_works),
+            "yearlyCount": dict(influencer_yearly[artist_id]),
         }
-        for artist_id, count in influencer_counter.most_common(10)
+        for artist_id, count in influencer_counter.most_common()
     ]
 
     indirect_influence = Counter()
+    indirect_via = defaultdict(set)
     direct_set = {artist_id for artist_id, _ in influenced_counter.items()}
     for direct_artist in direct_set:
         for downstream in influence_out.get(direct_artist, []):
             indirect_influence[downstream["artist"]] += 1
+            indirect_via[downstream["artist"]].add(direct_artist)
 
     influenced_artists = [
         {
@@ -208,7 +245,44 @@ def build_sailor_task(
             "primaryGenre": artist_primary_genre(artist_id, nodes, artist_to_works),
             "types": dict(influenced_types[artist_id]),
         }
-        for artist_id, count in influenced_counter.most_common(12)
+        for artist_id, count in influenced_counter.most_common()
+    ]
+
+    indirect_only_artists = [
+        {
+            "id": str(artist_id),
+            "name": node_name(nodes[artist_id]),
+            "indirectCount": count,
+            "viaArtists": [
+                {"id": str(via_id), "name": node_name(nodes[via_id])}
+                for via_id in sorted(indirect_via[artist_id])
+            ],
+            "primaryGenre": artist_primary_genre(artist_id, nodes, artist_to_works),
+        }
+        for artist_id, count in indirect_influence.most_common()
+        if artist_id not in influenced_counter
+    ]
+
+    community_counter = Counter()
+    community_years = defaultdict(list)
+    for record in influence_out.get(sailor_id, []):
+        target_id = record["artist"]
+        genre = artist_primary_genre(target_id, nodes, artist_to_works)
+        if genre == OCEANUS:
+            community_counter[target_id] += 1
+            if record.get("sourceYear") is not None:
+                community_years[target_id].append(record["sourceYear"])
+
+    community_influence = [
+        {
+            "id": str(artist_id),
+            "name": node_name(nodes[artist_id]),
+            "count": count,
+            "isOceanus": True,
+            "primaryGenre": OCEANUS,
+            "year": min(community_years[artist_id]) if community_years.get(artist_id) else None,
+        }
+        for artist_id, count in community_counter.most_common()
     ]
 
     years = sorted(timeline)
@@ -231,6 +305,9 @@ def build_sailor_task(
         "topInfluencers": top_influencers,
         "collaborators": collaborators,
         "influencedArtists": influenced_artists,
+        "indirectOnlyArtists": indirect_only_artists,
+        "collaboratorDownstream": collaborator_downstream,
+        "communityInfluence": community_influence,
         "works": sailor_works,
     }
 

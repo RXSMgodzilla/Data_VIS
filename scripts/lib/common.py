@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[2]
-SOURCE = ROOT.parent / "MC1_release" / "MC1_graph.json"
+SOURCE = ROOT / "MC1_graph.json"
 OUTPUT_DIR = ROOT / "public" / "data"
 
 INFLUENCE_EDGE_TYPES = {
