@@ -603,6 +603,96 @@ input {
   }
 }
 
+.view-toggle {
+  display: flex;
+  gap: 6px;
+  border-radius: 12px;
+  padding: 4px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(126, 145, 177, 0.14);
+}
+
+.view-toggle__btn {
+  border: none;
+  border-radius: 10px;
+  padding: 7px 14px;
+  background: transparent;
+  color: #9caac8;
+  font-size: 0.82rem;
+  cursor: pointer;
+  transition: background 180ms ease, color 180ms ease;
+}
+
+.view-toggle__btn.active {
+  background: rgba(85, 225, 255, 0.14);
+  color: #e6edf9;
+}
+
+.arc-belt-card {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.arc-belt-head h4 {
+  margin: 0 0 8px;
+  color: #f7faff;
+  font-size: 1.08rem;
+}
+
+.arc-belt-head p {
+  margin: 0;
+  color: #94a4c2;
+}
+
+.arc-belt-stage {
+  border-radius: 22px;
+  padding: 14px;
+  background:
+    radial-gradient(circle at center, rgba(85, 225, 255, 0.08), transparent 52%),
+    rgba(5, 11, 22, 0.72);
+  border: 1px solid rgba(126, 145, 177, 0.12);
+}
+
+.arc-belt-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+}
+
+.arc-belt-node {
+  cursor: pointer;
+}
+
+.arc-belt-detail {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.arc-belt-detail > div {
+  border-radius: 16px;
+  padding: 12px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(126, 145, 177, 0.12);
+}
+
+.arc-belt-detail__label {
+  display: block;
+  color: #8ea1c3;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.arc-belt-detail strong {
+  display: block;
+  margin-top: 6px;
+  color: #f6faff;
+  word-break: break-word;
+}
+
 @media (max-width: 760px) {
   .app-shell {
     width: min(100vw - 20px, 100%);

@@ -1,5 +1,6 @@
 <script setup>
 import { computed, ref, watch } from 'vue'
+import ArcBeltGraph from '../components/ArcBeltGraph.vue'
 import BarList from '../components/BarList.vue'
 import NetworkSummary from '../components/NetworkSummary.vue'
 import OrbitalGraph from '../components/OrbitalGraph.vue'
@@ -15,6 +16,7 @@ const props = defineProps({
 const sailorYearMin = ref(2028)
 const sailorYearMax = ref(2040)
 const selectedSailorEdgeTypes = ref([])
+const graphView = ref('orbit') // 'orbit' | 'arc'
 
 const sailorEdgeTypes = computed(() => {
   const edges = props.task?.graph?.edges || []
@@ -196,15 +198,42 @@ watch(sailorEdgeTypes, (types) => {
     </aside>
 
     <article class="panel graph-panel">
-      <div class="panel-header">
-        <p class="eyebrow">Interactive Orbit</p>
-        <h3>Sailor Shift's orbit at a glance</h3>
+      <div class="panel-header" style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;">
+        <div>
+          <p class="eyebrow">Interactive Orbit</p>
+          <h3>Sailor Shift's orbit at a glance</h3>
+        </div>
+        <div class="view-toggle">
+          <button
+            class="view-toggle__btn"
+            :class="{ active: graphView === 'orbit' }"
+            @click="graphView = 'orbit'"
+          >
+            Orbit
+          </button>
+          <button
+            class="view-toggle__btn"
+            :class="{ active: graphView === 'arc' }"
+            @click="graphView = 'arc'"
+          >
+            Arc Belt
+          </button>
+        </div>
       </div>
       <OrbitalGraph
+        v-if="graphView === 'orbit'"
         :graph-data="sailorOrbitalGraph"
         :center-id="task.artistId"
         title="Ego-network of influence and collaboration"
         subtitle="Click nodes to inspect who shaped Sailor Shift, who worked with her, and who later echoed her style."
+      />
+      <ArcBeltGraph
+        v-else
+        :graph-data="sailorOrbitalGraph"
+        :center-id="task.artistId"
+        :year-range="task.yearRange"
+        title="Temporal arc of influence and collaboration"
+        subtitle="Nodes arranged along a time arc by year. Inner ring = upstream influences, outer ring = downstream echoes."
       />
     </article>
 

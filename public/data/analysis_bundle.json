@@ -1,6 +1,6 @@
 {
   "meta": {
-    "sourceFile": "MC1_release\\MC1_graph.json",
+    "sourceFile": "/Users/jenniahu222/jenniahu/bdt/5005/Data_VIS/MC1_release/MC1_graph.json",
     "nodeCount": 17412,
     "edgeCount": 37857,
     "generatedFor": "VAST Challenge 2025 MC1 interactive dashboard"
@@ -1252,487 +1252,568 @@
             "id": "17255-17280-PerformerOf",
             "source": "17255",
             "target": "17280",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2028
           },
           {
             "id": "17255-17281-PerformerOf",
             "source": "17255",
             "target": "17281",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2028
           },
           {
             "id": "17255-17282-PerformerOf",
             "source": "17255",
             "target": "17282",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2028
           },
           {
             "id": "17255-17283-PerformerOf",
             "source": "17255",
             "target": "17283",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2030
           },
           {
             "id": "17255-17284-PerformerOf",
             "source": "17255",
             "target": "17284",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2030
           },
           {
             "id": "17255-17285-PerformerOf",
             "source": "17255",
             "target": "17285",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2030
           },
           {
             "id": "17226-17410-PerformerOf",
             "source": "17226",
             "target": "17410",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2030
           },
           {
             "id": "17255-17410-PerformerOf",
             "source": "17255",
             "target": "17410",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2030
           },
           {
             "id": "17255-17286-PerformerOf",
             "source": "17255",
             "target": "17286",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2032
           },
           {
             "id": "17255-17288-PerformerOf",
             "source": "17255",
             "target": "17288",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2034
           },
           {
             "id": "17255-17289-PerformerOf",
             "source": "17255",
             "target": "17289",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2034
           },
           {
             "id": "17255-17287-PerformerOf",
             "source": "17255",
             "target": "17287",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2034
           },
           {
             "id": "17255-17290-PerformerOf",
             "source": "17255",
             "target": "17290",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2036
           },
           {
             "id": "17255-17291-PerformerOf",
             "source": "17255",
             "target": "17291",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2036
           },
           {
             "id": "17255-17292-PerformerOf",
             "source": "17255",
             "target": "17292",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2038
           },
           {
             "id": "17255-17293-PerformerOf",
             "source": "17255",
             "target": "17293",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2040
           },
           {
             "id": "17255-17294-PerformerOf",
             "source": "17255",
             "target": "17294",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2040
           },
           {
             "id": "17349-17350-LyricistOf",
             "source": "17349",
             "target": "17350",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2031
           },
           {
             "id": "17255-17350-LyricistOf",
             "source": "17255",
             "target": "17350",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2031
           },
           {
             "id": "17349-17350-PerformerOf",
             "source": "17349",
             "target": "17350",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2031
           },
           {
             "id": "17255-17350-PerformerOf",
             "source": "17255",
             "target": "17350",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2031
           },
           {
             "id": "17255-17356-LyricistOf",
             "source": "17255",
             "target": "17356",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2031
           },
           {
             "id": "17355-17356-PerformerOf",
             "source": "17355",
             "target": "17356",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2031
           },
           {
             "id": "17255-17356-PerformerOf",
             "source": "17255",
             "target": "17356",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2031
           },
           {
             "id": "17355-17356-ComposerOf",
             "source": "17355",
             "target": "17356",
-            "type": "ComposerOf"
+            "type": "ComposerOf",
+            "year": 2031
           },
           {
             "id": "17205-17272-ComposerOf",
             "source": "17205",
             "target": "17272",
-            "type": "ComposerOf"
+            "type": "ComposerOf",
+            "year": 2028
           },
           {
             "id": "17206-17272-ComposerOf",
             "source": "17206",
             "target": "17272",
-            "type": "ComposerOf"
+            "type": "ComposerOf",
+            "year": 2028
           },
           {
             "id": "17255-17272-PerformerOf",
             "source": "17255",
             "target": "17272",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2028
           },
           {
             "id": "17255-17272-LyricistOf",
             "source": "17255",
             "target": "17272",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2028
           },
           {
             "id": "17255-17273-PerformerOf",
             "source": "17255",
             "target": "17273",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2030
           },
           {
             "id": "17255-17273-LyricistOf",
             "source": "17255",
             "target": "17273",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2030
           },
           {
             "id": "17255-17274-PerformerOf",
             "source": "17255",
             "target": "17274",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2032
           },
           {
             "id": "17255-17274-LyricistOf",
             "source": "17255",
             "target": "17274",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2032
           },
           {
             "id": "17189-17275-LyricistOf",
             "source": "17189",
             "target": "17275",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2034
           },
           {
             "id": "17255-17275-LyricistOf",
             "source": "17255",
             "target": "17275",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2034
           },
           {
             "id": "17190-17275-ComposerOf",
             "source": "17190",
             "target": "17275",
-            "type": "ComposerOf"
+            "type": "ComposerOf",
+            "year": 2034
           },
           {
             "id": "17191-17275-ComposerOf",
             "source": "17191",
             "target": "17275",
-            "type": "ComposerOf"
+            "type": "ComposerOf",
+            "year": 2034
           },
           {
             "id": "17255-17275-PerformerOf",
             "source": "17255",
             "target": "17275",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2034
           },
           {
             "id": "17255-17276-PerformerOf",
             "source": "17255",
             "target": "17276",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2036
           },
           {
             "id": "17309-17276-LyricistOf",
             "source": "17309",
             "target": "17276",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2036
           },
           {
             "id": "17255-17276-LyricistOf",
             "source": "17255",
             "target": "17276",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2036
           },
           {
             "id": "17296-17276-ComposerOf",
             "source": "17296",
             "target": "17276",
-            "type": "ComposerOf"
+            "type": "ComposerOf",
+            "year": 2036
           },
           {
             "id": "17189-17277-LyricistOf",
             "source": "17189",
             "target": "17277",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2038
           },
           {
             "id": "17255-17277-LyricistOf",
             "source": "17255",
             "target": "17277",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2038
           },
           {
             "id": "17191-17277-ComposerOf",
             "source": "17191",
             "target": "17277",
-            "type": "ComposerOf"
+            "type": "ComposerOf",
+            "year": 2038
           },
           {
             "id": "17255-17277-PerformerOf",
             "source": "17255",
             "target": "17277",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2038
           },
           {
             "id": "17255-17278-PerformerOf",
             "source": "17255",
             "target": "17278",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2040
           },
           {
             "id": "17311-17278-LyricistOf",
             "source": "17311",
             "target": "17278",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2040
           },
           {
             "id": "17255-17278-LyricistOf",
             "source": "17255",
             "target": "17278",
-            "type": "LyricistOf"
+            "type": "LyricistOf",
+            "year": 2040
           },
           {
             "id": "17310-17278-ComposerOf",
             "source": "17310",
             "target": "17278",
-            "type": "ComposerOf"
+            "type": "ComposerOf",
+            "year": 2040
           },
           {
             "id": "17255-17279-PerformerOf",
             "source": "17255",
             "target": "17279",
-            "type": "PerformerOf"
+            "type": "PerformerOf",
+            "year": 2028
           },
           {
             "id": "in-17255-17260-DirectlySamples",
             "source": "17255",
             "target": "17260",
-            "type": "DirectlySamples"
+            "type": "DirectlySamples",
+            "year": null
           },
           {
             "id": "in-17255-17299-InStyleOf",
             "source": "17255",
             "target": "17299",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": null
           },
           {
             "id": "in-17255-17327-LyricalReferenceTo",
             "source": "17255",
             "target": "17327",
-            "type": "LyricalReferenceTo"
+            "type": "LyricalReferenceTo",
+            "year": null
           },
           {
             "id": "in-17255-17192-InStyleOf",
             "source": "17255",
             "target": "17192",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": null
           },
           {
             "id": "in-17273-3881-InStyleOf",
             "source": "17273",
             "target": "3881",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": 2030
           },
           {
             "id": "in-17273-9848-CoverOf",
             "source": "17273",
             "target": "9848",
-            "type": "CoverOf"
+            "type": "CoverOf",
+            "year": 2030
           },
           {
             "id": "in-17275-16312-CoverOf",
             "source": "17275",
             "target": "16312",
-            "type": "CoverOf"
+            "type": "CoverOf",
+            "year": 2034
           },
           {
             "id": "in-17275-15855-InStyleOf",
             "source": "17275",
             "target": "15855",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": 2034
           },
           {
             "id": "in-17277-876-LyricalReferenceTo",
             "source": "17277",
             "target": "876",
-            "type": "LyricalReferenceTo"
+            "type": "LyricalReferenceTo",
+            "year": 2038
           },
           {
             "id": "in-17277-3986-LyricalReferenceTo",
             "source": "17277",
             "target": "3986",
-            "type": "LyricalReferenceTo"
+            "type": "LyricalReferenceTo",
+            "year": 2038
           },
           {
             "id": "in-17279-14658-InterpolatesFrom",
             "source": "17279",
             "target": "14658",
-            "type": "InterpolatesFrom"
+            "type": "InterpolatesFrom",
+            "year": 2028
           },
           {
             "id": "in-17280-14933-CoverOf",
             "source": "17280",
             "target": "14933",
-            "type": "CoverOf"
+            "type": "CoverOf",
+            "year": 2028
           },
           {
             "id": "in-17280-10534-InStyleOf",
             "source": "17280",
             "target": "10534",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": 2028
           },
           {
             "id": "in-17285-8207-InStyleOf",
             "source": "17285",
             "target": "8207",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": 2030
           },
           {
             "id": "in-17286-10903-InStyleOf",
             "source": "17286",
             "target": "10903",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": 2032
           },
           {
             "id": "in-17287-13589-LyricalReferenceTo",
             "source": "17287",
             "target": "13589",
-            "type": "LyricalReferenceTo"
+            "type": "LyricalReferenceTo",
+            "year": 2034
           },
           {
             "id": "in-17287-11254-InterpolatesFrom",
             "source": "17287",
             "target": "11254",
-            "type": "InterpolatesFrom"
+            "type": "InterpolatesFrom",
+            "year": 2034
           },
           {
             "id": "in-17289-5574-InStyleOf",
             "source": "17289",
             "target": "5574",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": 2034
           },
           {
             "id": "in-17290-12685-InterpolatesFrom",
             "source": "17290",
             "target": "12685",
-            "type": "InterpolatesFrom"
+            "type": "InterpolatesFrom",
+            "year": 2036
           },
           {
             "id": "in-17290-12237-InStyleOf",
             "source": "17290",
             "target": "12237",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": 2036
           },
           {
             "id": "in-17292-13014-DirectlySamples",
             "source": "17292",
             "target": "13014",
-            "type": "DirectlySamples"
+            "type": "DirectlySamples",
+            "year": 2038
           },
           {
             "id": "in-17292-6592-InStyleOf",
             "source": "17292",
             "target": "6592",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": 2038
           },
           {
             "id": "in-17350-10016-CoverOf",
             "source": "17350",
             "target": "10016",
-            "type": "CoverOf"
+            "type": "CoverOf",
+            "year": 2031
           },
           {
             "id": "out-17022-17255-InStyleOf",
             "source": "17022",
             "target": "17255",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": null
           },
           {
             "id": "out-17032-17255-LyricalReferenceTo",
             "source": "17032",
             "target": "17255",
-            "type": "LyricalReferenceTo"
+            "type": "LyricalReferenceTo",
+            "year": null
           },
           {
             "id": "out-17063-17255-InterpolatesFrom",
             "source": "17063",
             "target": "17255",
-            "type": "InterpolatesFrom"
+            "type": "InterpolatesFrom",
+            "year": null
           },
           {
             "id": "out-17110-17255-InStyleOf",
             "source": "17110",
             "target": "17255",
-            "type": "InStyleOf"
+            "type": "InStyleOf",
+            "year": null
           },
           {
             "id": "out-17126-17255-LyricalReferenceTo",
             "source": "17126",
             "target": "17255",
-            "type": "LyricalReferenceTo"
+            "type": "LyricalReferenceTo",
+            "year": null
           },
           {
             "id": "out-17155-17255-InterpolatesFrom",
             "source": "17155",
             "target": "17255",
-            "type": "InterpolatesFrom"
+            "type": "InterpolatesFrom",
+            "year": null
           },
           {
             "id": "out-17361-17255-DirectlySamples",
             "source": "17361",
             "target": "17255",
-            "type": "DirectlySamples"
+            "type": "DirectlySamples",
+            "year": null
           }
         ]
       },
@@ -1802,7 +1883,8 @@
           "types": {
             "DirectlySamples": 1
           },
-          "primaryGenre": "Oceanus Folk"
+          "primaryGenre": "Oceanus Folk",
+          "yearlyCount": {}
         },
         {
           "id": "17299",
@@ -1811,7 +1893,8 @@
           "types": {
             "InStyleOf": 1
           },
-          "primaryGenre": "Oceanus Folk"
+          "primaryGenre": "Oceanus Folk",
+          "yearlyCount": {}
         },
         {
           "id": "17327",
@@ -1820,7 +1903,8 @@
           "types": {
             "LyricalReferenceTo": 1
           },
-          "primaryGenre": "Oceanus Folk"
+          "primaryGenre": "Oceanus Folk",
+          "yearlyCount": {}
         },
         {
           "id": "17192",
@@ -1829,7 +1913,8 @@
           "types": {
             "InStyleOf": 1
           },
-          "primaryGenre": "Celtic Folk"
+          "primaryGenre": "Celtic Folk",
+          "yearlyCount": {}
         },
         {
           "id": "3760",
@@ -1838,7 +1923,10 @@
           "types": {
             "InStyleOf": 1
           },
-          "primaryGenre": "Americana"
+          "primaryGenre": "Americana",
+          "yearlyCount": {
+            "2030": 1
+          }
         },
         {
           "id": "3761",
@@ -1847,7 +1935,10 @@
           "types": {
             "InStyleOf": 1
           },
-          "primaryGenre": "Synthwave"
+          "primaryGenre": "Synthwave",
+          "yearlyCount": {
+            "2030": 1
+          }
         },
         {
           "id": "3763",
@@ -1856,7 +1947,10 @@
           "types": {
             "InStyleOf": 1
           },
-          "primaryGenre": "Synthwave"
+          "primaryGenre": "Synthwave",
+          "yearlyCount": {
+            "2030": 1
+          }
         },
         {
           "id": "934",
@@ -1865,7 +1959,10 @@
           "types": {
             "InStyleOf": 1
           },
-          "primaryGenre": "Dream Pop"
+          "primaryGenre": "Dream Pop",
+          "yearlyCount": {
+            "2030": 1
+          }
         },
         {
           "id": "16823",
@@ -1874,7 +1971,10 @@
           "types": {
             "InStyleOf": 1
           },
-          "primaryGenre": "Synthwave"
+          "primaryGenre": "Synthwave",
+          "yearlyCount": {
+            "2030": 1
+          }
         },
         {
           "id": "3882",
@@ -1883,7 +1983,586 @@
           "types": {
             "InStyleOf": 1
           },
-          "primaryGenre": "Synthwave"
+          "primaryGenre": "Synthwave",
+          "yearlyCount": {
+            "2030": 1
+          }
+        },
+        {
+          "id": "3883",
+          "name": "Yang Zhao",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Synthwave",
+          "yearlyCount": {
+            "2030": 1
+          }
+        },
+        {
+          "id": "5213",
+          "name": "Samantha Bullock",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Indie Pop",
+          "yearlyCount": {
+            "2030": 1
+          }
+        },
+        {
+          "id": "16031",
+          "name": "Simone Säuberlich",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Psychedelic Rock",
+          "yearlyCount": {
+            "2034": 1
+          }
+        },
+        {
+          "id": "15224",
+          "name": "Juan Shi",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Space Rock",
+          "yearlyCount": {
+            "2034": 1
+          }
+        },
+        {
+          "id": "457",
+          "name": "Min Cao",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Synthwave",
+          "yearlyCount": {
+            "2034": 1
+          }
+        },
+        {
+          "id": "15856",
+          "name": "Ming Zhou",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Synthwave",
+          "yearlyCount": {
+            "2034": 1
+          }
+        },
+        {
+          "id": "455",
+          "name": "Yang Peng",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Synthwave",
+          "yearlyCount": {
+            "2034": 1
+          }
+        },
+        {
+          "id": "878",
+          "name": "Jing Kang",
+          "count": 1,
+          "types": {
+            "LyricalReferenceTo": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "3987",
+          "name": "Xiulan Fang",
+          "count": 1,
+          "types": {
+            "LyricalReferenceTo": 1
+          },
+          "primaryGenre": "Synthpop",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "3988",
+          "name": "Qiang Liu",
+          "count": 1,
+          "types": {
+            "LyricalReferenceTo": 1
+          },
+          "primaryGenre": "Americana",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "3989",
+          "name": "Jun Qiao",
+          "count": 1,
+          "types": {
+            "LyricalReferenceTo": 1
+          },
+          "primaryGenre": "Americana",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "3990",
+          "name": "Ming Huang",
+          "count": 1,
+          "types": {
+            "LyricalReferenceTo": 1
+          },
+          "primaryGenre": "Synthpop",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "1276",
+          "name": "Yong Dong",
+          "count": 1,
+          "types": {
+            "LyricalReferenceTo": 1
+          },
+          "primaryGenre": "Americana",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "1294",
+          "name": "Urszula Stochmal",
+          "count": 1,
+          "types": {
+            "InterpolatesFrom": 1
+          },
+          "primaryGenre": "Southern Gothic Rock",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "14934",
+          "name": "Miss Jennifer Williams",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "14935",
+          "name": "William Robinson",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "14936",
+          "name": "Judy Yang",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "14937",
+          "name": "Joanna Avery",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "14938",
+          "name": "Molly Gonzalez",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "2705",
+          "name": "Jeremiah Love",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Americana",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "2706",
+          "name": "Zachary Francis",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Psychedelic Rock",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "2707",
+          "name": "Robert Woods",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Indie Folk",
+          "yearlyCount": {
+            "2028": 1
+          }
+        },
+        {
+          "id": "8208",
+          "name": "Igor Dyś",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Alternative Rock",
+          "yearlyCount": {
+            "2030": 1
+          }
+        },
+        {
+          "id": "10905",
+          "name": "Tao Wen",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Dream Pop",
+          "yearlyCount": {
+            "2032": 1
+          }
+        },
+        {
+          "id": "10906",
+          "name": "Guiying Ren",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Dream Pop",
+          "yearlyCount": {
+            "2032": 1
+          }
+        },
+        {
+          "id": "10907",
+          "name": "Lei Shi",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Dream Pop",
+          "yearlyCount": {
+            "2032": 1
+          }
+        },
+        {
+          "id": "10908",
+          "name": "Wei Liang",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Dream Pop",
+          "yearlyCount": {
+            "2032": 1
+          }
+        },
+        {
+          "id": "8880",
+          "name": "Tao Gao",
+          "count": 1,
+          "types": {
+            "LyricalReferenceTo": 1
+          },
+          "primaryGenre": "Lo-Fi Electronica",
+          "yearlyCount": {
+            "2034": 1
+          }
+        },
+        {
+          "id": "11255",
+          "name": "Joshua Taylor",
+          "count": 1,
+          "types": {
+            "InterpolatesFrom": 1
+          },
+          "primaryGenre": "Indie Folk",
+          "yearlyCount": {
+            "2034": 1
+          }
+        },
+        {
+          "id": "5575",
+          "name": "Shannon Harvey",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Indie Folk",
+          "yearlyCount": {
+            "2034": 1
+          }
+        },
+        {
+          "id": "12688",
+          "name": "Linda Burns",
+          "count": 1,
+          "types": {
+            "InterpolatesFrom": 1
+          },
+          "primaryGenre": "Alternative Rock",
+          "yearlyCount": {
+            "2036": 1
+          }
+        },
+        {
+          "id": "12686",
+          "name": "James Medina",
+          "count": 1,
+          "types": {
+            "InterpolatesFrom": 1
+          },
+          "primaryGenre": "Alternative Rock",
+          "yearlyCount": {
+            "2036": 1
+          }
+        },
+        {
+          "id": "12687",
+          "name": "Matthew Best",
+          "count": 1,
+          "types": {
+            "InterpolatesFrom": 1
+          },
+          "primaryGenre": "Alternative Rock",
+          "yearlyCount": {
+            "2036": 1
+          }
+        },
+        {
+          "id": "12240",
+          "name": "Daniel Mccormick",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2036": 1
+          }
+        },
+        {
+          "id": "12241",
+          "name": "Lei Jin",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2036": 1
+          }
+        },
+        {
+          "id": "76",
+          "name": "Ming Ren",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Indie Folk",
+          "yearlyCount": {
+            "2036": 1
+          }
+        },
+        {
+          "id": "12238",
+          "name": "Lei Fu",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2036": 1
+          }
+        },
+        {
+          "id": "12239",
+          "name": "Yan Dai",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2036": 1
+          }
+        },
+        {
+          "id": "13016",
+          "name": "Ryan Dunlap",
+          "count": 1,
+          "types": {
+            "DirectlySamples": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "13017",
+          "name": "Elmo Calbo",
+          "count": 1,
+          "types": {
+            "DirectlySamples": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "13018",
+          "name": "Amico Luciani",
+          "count": 1,
+          "types": {
+            "DirectlySamples": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "13015",
+          "name": "David Reese",
+          "count": 1,
+          "types": {
+            "DirectlySamples": 1
+          },
+          "primaryGenre": "Indie Rock",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "6593",
+          "name": "Lori Massey",
+          "count": 1,
+          "types": {
+            "InStyleOf": 1
+          },
+          "primaryGenre": "Emo/Pop Punk",
+          "yearlyCount": {
+            "2038": 1
+          }
+        },
+        {
+          "id": "10018",
+          "name": "Trevor Bass",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Symphonic Metal",
+          "yearlyCount": {
+            "2031": 1
+          }
+        },
+        {
+          "id": "10019",
+          "name": "Xiuying Du",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Symphonic Metal",
+          "yearlyCount": {
+            "2031": 1
+          }
+        },
+        {
+          "id": "10020",
+          "name": "Xia Yuan",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Symphonic Metal",
+          "yearlyCount": {
+            "2031": 1
+          }
+        },
+        {
+          "id": "10021",
+          "name": "Sandra Burke",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Symphonic Metal",
+          "yearlyCount": {
+            "2031": 1
+          }
+        },
+        {
+          "id": "10022",
+          "name": "Yan Li",
+          "count": 1,
+          "types": {
+            "CoverOf": 1
+          },
+          "primaryGenre": "Symphonic Metal",
+          "yearlyCount": {
+            "2031": 1
+          }
         }
       ],
       "collaborators": [
@@ -2106,6 +2785,31 @@
           "types": {
             "DirectlySamples": 1
           }
+        }
+      ],
+      "indirectOnlyArtists": [
+        {
+          "id": "17146",
+          "name": "Jude Rivers",
+          "indirectCount": 1,
+          "viaArtists": [
+            {
+              "id": "17126",
+              "name": "Seraphina Vale"
+            }
+          ],
+          "primaryGenre": "Indie Rock"
+        }
+      ],
+      "collaboratorDownstream": [],
+      "communityInfluence": [
+        {
+          "id": "17361",
+          "name": "Copper Canyon Ghosts",
+          "count": 1,
+          "isOceanus": true,
+          "primaryGenre": "Oceanus Folk",
+          "year": null
         }
       ],
       "works": [
